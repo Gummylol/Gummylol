@@ -1,8 +1,8 @@
-## Hi 👋 I'm Nick
+## Hi 👋 I'm Nick Morawiec!
 ![](https://visitor-badge.laobi.icu/badge?page_id=Gummylol.Gummylol) [![Github](https://img.shields.io/github/followers/Gummylol?label=Followers&logo=Github)](https://github.com/Gummylol)
 
 
-## 🎓 I'm a SQL Server Systems Engineer for Travelers Insurance!
+## 🎓 I'm a SQL Server Systems Engineer for [Travelers Insurance](https://www.travelers.com/)!
 
 - 🌱 I’m currently learning Go. 
 - 🔭 I’m currently building my [Business/Website](https://www.BavarianWorksUSA.com/).
