@@ -4,7 +4,7 @@
 
 ## 🎓 I'm a SQL Server Systems Engineer for Travelers Insurance!
 
-- 🌱 I’m currently learning Rshiny. 
+- 🌱 I’m currently learning Go. 
 - 🔭 I’m currently building my [Business/Website](https://www.BavarianWorksUSA.com/).
 - 💬 Ask me about anything
 - 🐻 I am a [Western New England University](https://www1.wne.edu/) Graduate!
