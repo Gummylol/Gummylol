@@ -5,8 +5,8 @@
 ## 🎓 I'm a SQL Server Systems Engineer for [Travelers Insurance](https://www.travelers.com/)!
 
 - 🌱 I’m currently learning Go. 
-- 🔭 I’m currently building my [Business/Website](https://www.BavarianWorksUSA.com/).
-- 💬 Ask me about anything
+- ☁️ I am also learning and developing on [AWS](https://aws.amazon.com/)!
+- 🔭 I’m currently building my [Business/Website](https://www.BavarianWorksUSA.com/)
 - 🐻 I am a [Western New England University](https://www1.wne.edu/) Graduate!
 
 ## :email: Find me on:
