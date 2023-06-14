@@ -4,7 +4,8 @@
 
 ## 🎓 I'm a SQL Server Systems Engineer for [Travelers Insurance](https://www.travelers.com/)!
 
-- 🌱 I’m currently learning Go. 
+- 💻 I’m working on SQL Server Databases, Terraform, and Python for Cloud Database Tasks. 
+- 🌱 I’m currently learning and experimenting with Go. 
 - ☁️ I am also learning and developing on [AWS](https://aws.amazon.com/)!
 - 🐻 I am a [Western New England University](https://www1.wne.edu/) Graduate!
 
